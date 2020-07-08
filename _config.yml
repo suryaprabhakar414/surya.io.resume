@@ -41,7 +41,7 @@ linkedin_username: surya-prabhakaran
 
 # About Section
 about_title: About Me (Use this to override about section title)
-about_profile_image: ./_data/surya.jpeg
+about_profile_image: _data/surya.jpeg
 #about_content: | # this will include new lines to allow paragraphs
 I am Surya Prabhakaran
 
