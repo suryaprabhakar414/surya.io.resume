@@ -1,7 +1,7 @@
 # Site
 repository: sproogen/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
-
+darkmode: True
 # Personal info
 name: Surya Prabhakaran
 #title: Your job title
