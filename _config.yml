@@ -38,7 +38,6 @@ linkedin_username: surya-prabhakaran
 about_profile_image: _test/images/Surya1.jpeg
 about_content: > # this means to ignore newlines until the next config item.
   Hi, I'm Surya, a Software Engineer interested in the field of Deep Learning and Computer Vision. I've worked on several Computer Vision projects and have hands-on experience and knowledge in various Deep Learning Architectures. I'm looking forward to implementing Deep Learning in various fields such as Medical, Self Driving vehicles, Security, etc..
-
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
