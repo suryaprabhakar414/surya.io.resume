@@ -1,7 +1,7 @@
 - layout: top-middle
   name: Computer Pointer Controller
-  link: https://github.com/suryaprabhakar414/Computer-Pointer-Controller-OpenVINO.git
-  github: sproogen/modern-resume-theme
+  #link: 
+  github: https://github.com/suryaprabhakar414/Computer-Pointer-Controller-OpenVINO.git
   #quote: >
     #Short overview of the project
   description: >
