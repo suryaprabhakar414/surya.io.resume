@@ -11,7 +11,7 @@ email: suryaprabhakar41@gmail.com
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  suryaprabhakar41
+github_username:  suryaprabhakar414
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
 #facebook_username: jekyll
@@ -25,10 +25,10 @@ linkedin_username: surya-prabhakaran
 #orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Test link
-  icon: fa-ello
-  url: sproogen.github.io/modern-resume-theme
+#additional_links:
+#- title: Test link
+#  icon: fa-ello
+#  url: sproogen.github.io/modern-resume-theme
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -37,6 +37,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: _test/images/travis.png
 about_content: > # this means to ignore newlines until the next config item.
+  I am a Programmer, I like Computer Vision, I have Completed any Courses.
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else markdown supports.
