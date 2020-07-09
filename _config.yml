@@ -37,7 +37,7 @@ linkedin_username: surya-prabhakaran
 # about_title: About Me (Use this to override about section title)
 about_profile_image: _test/images/Surya1.jpeg
 about_content: > # this means to ignore newlines until the next config item.
-  I am a Programmer, I like Computer Vision, I have Completed any Courses.
+  Hi, I'm Surya, a Software Engineer interested in the field of Deep Learning and Computer Vision. I've worked on several Computer Vision projects and have hands-on experience and knowledge in various Deep Learning Architectures. I'm looking forward to implementing Deep Learning in various fields such as Medical, Self Driving vehicles, Security, etc..
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else markdown supports.
