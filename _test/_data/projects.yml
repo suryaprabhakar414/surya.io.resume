@@ -1,13 +1,12 @@
-# Project template
 - layout: top-middle
-  name: Project 1
-  link: https://sproogen.github.io/modern-resume-theme
+  name: Computer Pointer Controller
+  link: https://github.com/suryaprabhakar414/Computer-Pointer-Controller-OpenVINO.git
   github: sproogen/modern-resume-theme
   quote: >
     Short overview of the project
   description: >
-    Description about the work on/with the project
-
+    Developed using Intel Distribution of the OpenVINOTM Toolkit. This app is used to control the movement of mouse pointer by the direction of eyes and also estimated pose of the head. This app takes video as input(video file or camera) and then estimates the gaze of the user’s eyes and change the mouse pointer position accordingly.
 - name: Project 2
   description: >
     Description about the work on/with the project
+    
