@@ -35,7 +35,7 @@ linkedin_username: surya-prabhakaran
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: _test/images/travis.png
+about_profile_image: _test/images/Surya1.jpeg
 about_content: > # this means to ignore newlines until the next config item.
   I am a Programmer, I like Computer Vision, I have Completed any Courses.
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
