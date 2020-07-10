@@ -50,7 +50,7 @@ about_content: > # this means to ignore newlines until the next config item.
 # More Section
 more_title: Publications #(Use this to override about more section title)
 more_content: > # this means to ignore newlines until the next config item.
-  - **MRI Super-Resolution using Laplacian Pyramid Convolutional Neural Networks with Isotropic Undecimated Wavelet Loss**
+  - **MRI Super-Resolution using Laplacian Pyramid Convolutional Neural Networks with Isotropic Undecimated Wavelet Loss**                                                       Sriprabha Ramanarayanan, Balamurali Murugesan, Ananth Kalyanasundaram, **Surya Prabhakaran**, Keerthi Ram, Shantanu Patil, Mohanasankar Sivaprakasam
   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests. Or you could title it **Skills**
   and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
