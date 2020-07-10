@@ -1,4 +1,5 @@
-- name: SRM Institute of Science and Technology
+- layout: left 
+  name: SRM Institute of Science and Technology
   dates: 2016 - 2020
   qualification: B. Tech Computer Science and Engineering
   quote: >
