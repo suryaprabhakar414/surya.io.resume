@@ -50,9 +50,18 @@ about_content: > # this means to ignore newlines until the next config item.
 # More Section
 more_title: Publications #(Use this to override about more section title)
 more_content: > # this means to ignore newlines until the next config item.
-  - [**MRI Super-Resolution using Laplacian Pyramid Convolutional Neural Networks with Isotropic Undecimated Wavelet Loss**](https://drive.google.com/file/d/1aY_w1qkUIiR6oZsKtdgFqGpyscDbEOPa/view?usp=sharing)                                                        
+  - **MRI Super-Resolution using Laplacian Pyramid Convolutional Neural Networks with Isotropic Undecimated Wavelet Loss**                                                         
      Sriprabha Ramanarayanan, Balamurali Murugesan, Ananth Kalyanasundaram, **Surya Prabhakaran**, Keerthi Ram, Shantanu Patil, Mohanasankar Sivaprakasam                                                                               
-     EMBC 2020 (Accepted)
+     EMBC 2020 (Accepted)                                                                                                        
+     [Paper](https://drive.google.com/file/d/1aY_w1qkUIiR6oZsKtdgFqGpyscDbEOPa/view?usp=sharing)
+   - **Detection of Pathological Myopia by Convolutional Neural Network**                                                         
+     Ananth Kalyanasundaram, **Surya Prabhakaran**, J.Briskilal, D.Senthil Kumar                                                                       
+     International Journal of Psychosocial Rehabilitation, Vol. 24, Issue 05, 2020                                                                                                    
+     [Paper](https://drive.google.com/file/d/1chQh3YOn7Q3v8qHhjXBnK8ME8ZhtFom8/view?usp=sharing)
+   - **Diagnosing abnormality of foetus using Machine Learning algorithms**                                                         
+     Abhijith Ragav, **Surya Prabhakaran**, Shivabhinav.S.G.                                                                       
+     International Conference on Internet of Things (ICIOT 2019) (Presented and Accepted)                                                                                                   
+     [Paper](https://drive.google.com/file/d/1VN8IeSKZl-8UIR4hrpN9eeJ2GX0xFxlk/view?usp=sharing)
  
      
 
