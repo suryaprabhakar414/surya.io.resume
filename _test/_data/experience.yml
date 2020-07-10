@@ -1,12 +1,15 @@
-- layout: right
-  company: Company 1
-  link: https://google.com
-  job_title: Job title 1
-  dates: November 2016 - present
-  quote: >
-   Short description of the company (optional)
+- layout: top-left
+  company:  Dept. of Translational Medicine and Research, SRM Medical College
+  #link: https://google.com
+  job_title: Research Intern
+  dates: August 2019 - present
+  #quote: >
+   #Short description of the company (optional)
   description: >
-    Description of role
+     Collected real-life Knee MRI data, cleaned the data and used image processing techniques to make the
+data trainable. |
+Developed a novel loss function for the same which provided better results and submitted a paper on the
+same which got accepted at the EMBC 2020 conference.
 
 - layout: top
   company: Company 2
