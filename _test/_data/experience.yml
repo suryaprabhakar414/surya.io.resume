@@ -6,6 +6,6 @@
   #quote: >
    #Short description of the company (optional)
   description: >
-     Collected real-life Knee MRI data, cleaned the data and used image processing techniques to make the data trainable. |
+     Collected real-life Knee MRI data, cleaned the data and used image processing techniques to make the data trainable. >
      Developed a novel loss function for the same which provided better results and submitted a paper on the same which got accepted at the EMBC 2020 conference.
 
