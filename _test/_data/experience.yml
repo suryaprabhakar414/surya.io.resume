@@ -6,21 +6,6 @@
   #quote: >
    #Short description of the company (optional)
   description: >
-     Collected real-life Knee MRI data, cleaned the data and used image processing techniques to make the data trainable. Developed a novel loss function for the same which provided better results and submitted a paper on the same which got accepted at the EMBC 2020 conference.
+     Collected real-life Knee MRI data, cleaned the data and used image processing techniques to make the data trainable.
+     Developed a novel loss function for the same which provided better results and submitted a paper on the same which got accepted at the EMBC 2020 conference.
 
-- layout: top
-  company: Company 2
-  job_title: Job title 1
-  dates: January 2014 - November 2016
-  description: >
-    Description of role
-
-- layout: top-right
-  company: Company 3
-  jobs:
-    - title: Job title 1
-      dates: February 2013 - December 2013
-    - title: Job title 2
-      dates: June 2012 - February 2013
-  description: >
-    Description of role
