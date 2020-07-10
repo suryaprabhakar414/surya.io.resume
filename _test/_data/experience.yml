@@ -9,4 +9,30 @@
      - Collected real-life Knee MRI data, cleaned the data and used image processing techniques to make the data trainable. 
    
      - Developed a novel loss function for the same which provided better results and submitted a paper on the same which got accepted at the EMBC 2020 conference.
+     
+- layout: top-middle
+  company:  SPARC, SRM Institute of Science and Technology
+  #link: https://google.com
+  job_title: Research Intern
+  dates: June 2019 - June 2019
+  #quote: >
+   #Short description of the company (optional)
+  description: >
+     - Worked on a Research project proposed by Indian Institute of Technology Kharagpur, collaborated with University of California, Davis.
+   
+     - Developed a classifier to predict non-proliferative Diabetic Retinopathy.
+     
+     - Implemented several state-of-the-art deep learning architectures for Image Classification
+  
+- layout: top-middle
+  company:  Alpha Cloud Labs
+  #link: https://google.com
+  job_title: Research Intern
+  dates: December 2018 - December 2018
+  #quote: >
+   #Short description of the company (optional)
+  description: >
+     - Worked on video text- recognition using Tesseract-OCR, OpenCV and Deep Learning.
+   
+     
 
