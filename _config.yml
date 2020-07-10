@@ -50,8 +50,10 @@ about_content: > # this means to ignore newlines until the next config item.
 # More Section
 more_title: Publications #(Use this to override about more section title)
 more_content: > # this means to ignore newlines until the next config item.
-  - **MRI Super-Resolution using Laplacian Pyramid Convolutional Neural Networks with Isotropic Undecimated Wavelet Loss**,                                                        
-     Sriprabha Ramanarayanan, Balamurali Murugesan, Ananth Kalyanasundaram, **Surya Prabhakaran**, Keerthi Ram, Shantanu Patil, Mohanasankar Sivaprakasam 
+  - **MRI Super-Resolution using Laplacian Pyramid Convolutional Neural Networks with Isotropic Undecimated Wavelet Loss**                                                        
+     Sriprabha Ramanarayanan, Balamurali Murugesan, Ananth Kalyanasundaram, **Surya Prabhakaran**, Keerthi Ram, Shantanu Patil, Mohanasankar Sivaprakasam
+     EMBC 2020 (Accepted)
+     
 
 # Footer
 footer_show_references: true
