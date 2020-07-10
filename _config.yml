@@ -37,7 +37,7 @@ linkedin_username: surya-prabhakaran
 # about_title: About Me (Use this to override about section title)
 about_profile_image: _test/images/Surya1.jpeg
 about_content: > # this means to ignore newlines until the next config item.
-  Hi, I'm Surya, currently a final year student pursuing a B.Tech degree in Computer Science and Engineering at [SRM Institute of Science and Technology, Kattankulathur, Chennai](https://www.srmist.edu.in/). I am  interested in the field of Deep Learning and Computer Vision. I've worked on several Computer Vision projects and have hands-on experience and knowledge in various Deep Learning Architectures. I'm looking forward to implementing Deep Learning in various fields such as Medical, Self Driving vehicles, Security, etc..
+  Hi, I'm Surya, currently a final year student pursuing a B.Tech degree in Computer Science and Engineering at [SRM Institute of Science and Technology, Kattankulathur, Chennai](https://www.srmist.edu.in/). I am currently working as a Research Intern (Computer Vision) at the Department of Translational Medicine and Research at SRM Medical College and Research Centre. I am  interested in the field of Deep Learning and Computer Vision. I've worked on several Computer Vision projects and have hands-on experience and knowledge in various Deep Learning Architectures. I'm looking forward to implementing Deep Learning in various fields such as Medical, Self Driving vehicles, Security, etc..
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
