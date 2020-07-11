@@ -27,7 +27,7 @@ linkedin_username: surya-prabhakaran
 # Additional icon links
 additional_links:
 - title: Resume
-  icon: fa-ello
+  icon: resume
   url: https://drive.google.com/file/d/12xUS6yjbseTEGj3cagzYaSu6MPpMqoF8/view?usp=sharing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
