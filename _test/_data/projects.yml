@@ -25,10 +25,10 @@
   description: >
    This project deals with detection of Non-Proliferative Diabetic Retinopathy and multiclass classification using deep learning frameworks. Implemented Inception Network(V1-V4,ResNetV1 and ResNetV2) to detect Non-Proliferative Diabetic Retinopathy.
 - layout: top-middle
-  name: MRI Super-resolution using Deep Learning
+  name: Knee MRI Super-Resolution
   #github: /suryaprabhakar414/Diabetic_Retinopathy.git
   description: >
-   Performed Super-Resolution on MRI using LapSRN, SRGAN, SRCNN with a novel loss function.  Achieved an SSIM of 0.9887 on the test set.
+   Performed Super-Resolution on Knee MR Images using Deep Learning Networks(LapSRN, SRGAN, SRCNN). Achieved an SSIM of 0.9887 on the test set.
 
   
  
