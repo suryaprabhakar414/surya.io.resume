@@ -1,4 +1,4 @@
-- layout: left
+- layout: top-middle
   company: Tata Consultancy Services
   #link: https://google.com
   job_title: System Engineer
@@ -7,7 +7,7 @@
    #Short description of the company (optional)
   #description: >
      
-- layout: left
+- layout: top-middle
   company:  Dept. of Translational Medicine and Research, SRM Medical College
   #link: https://google.com
   job_title: Research Intern
@@ -19,7 +19,7 @@
    
      - Developed a novel loss function for the same which provided better results and submitted a paper on the same which got accepted at the EMBC 2020 conference.
      
-- layout: left
+- layout: top-middle
   company:  SPARC, SRM Institute of Science and Technology
   #link: https://google.com
   job_title: Research Intern
@@ -33,7 +33,7 @@
      
      - Implemented several state-of-the-art deep learning architectures for Image Classification
   
-- layout: left
+- layout: top-middle
   company:  Alpha Cloud Labs
   #link: https://google.com
   job_title: Research Intern
