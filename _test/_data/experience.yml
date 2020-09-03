@@ -1,8 +1,17 @@
 - layout: top-middle
+  company: Tata Consultancy Services
+  #link: https://google.com
+  job_title: System Engineer
+  dates: August 2020 - Present
+  #quote: >
+   #Short description of the company (optional)
+  #description: >
+     
+- layout: top-middle
   company:  Dept. of Translational Medicine and Research, SRM Medical College
   #link: https://google.com
   job_title: Research Intern
-  dates: August 2019 - present
+  dates: August 2019 - August 2020
   #quote: >
    #Short description of the company (optional)
   description: >
