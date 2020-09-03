@@ -6,12 +6,12 @@
     #Short overview of the project
   description: >
     Developed using Intel Distribution of the OpenVINOTM Toolkit. This app is used to control the movement of mouse pointer by the direction of eyes and also estimated pose of the head. This app takes video as input(video file or camera) and then estimates the gaze of the user’s eyes and change the mouse pointer position accordingly.
-- layout: top-middle
+- layout: left
   name: Smart queuing System
   github: /suryaprabhakar414/Smart-Queuing-System-OpenVINO-Intel-DevCloud.git
   description: >
     Developed using Intel Distribution of the OpenVINOTM Toolkit and Intel DevCLoud.Smart Queuing System app is used to reduce queue congestions. This app detects and counts the number of people in a particular queue and redirects them to a less congested queue. I have used Intel DevCloud to implement the project on several hardwares[CPU, IGPU, VPU(NCS2), FPGA]
-- layout: top-middle
+- layout: left
   name: People Counter App
   github: /suryaprabhakar414/People-Counter-App-OpenVINO.git
   description: >
@@ -19,12 +19,12 @@
     1) the number of people in the frame
     2) time those people spent in frame
     3) the total number of people counted are sent to a MQTT server.
-- layout: top-middle
+- layout: left
   name: Non-Proliferative Diabetc Retinopathy Detection
   github: /suryaprabhakar414/Diabetic_Retinopathy.git
   description: >
    This project deals with detection of Non-Proliferative Diabetic Retinopathy and multiclass classification using deep learning frameworks. Implemented Inception Network(V1-V4,ResNetV1 and ResNetV2) to detect Non-Proliferative Diabetic Retinopathy.
-- layout: top-middle
+- layout: left
   name: Knee MRI Super-Resolution
   #github: /suryaprabhakar414/Diabetic_Retinopathy.git
   description: >
