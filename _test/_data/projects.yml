@@ -30,7 +30,8 @@
       * the number of people in the frame
       * time spent by those people in the frame
       * the total number of people counted
-      and sends this data to a MQTT server.
+      
+    and sends this data to a MQTT server.
 - layout: top-middle
   name: Non-Proliferative Diabetc Retinopathy Detection
   github: /suryaprabhakar414/Diabetic_Retinopathy.git
