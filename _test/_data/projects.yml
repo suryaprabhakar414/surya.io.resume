@@ -5,10 +5,9 @@
   #quote: >
     #Short overview of the project
   description: >
-  * Developed the application using Intel Distribution of the OpenVINO Toolkit.
-  * This app control the movement of mouse pointer by the direction of eyes and also estimated pose of the head.
-  * This app takes video as input(video file or camera) and then estimates the gaze of the user’s eyes.
-and change the mouse pointer position accordingly
+    * Developed the application using Intel Distribution of the OpenVINO Toolkit.
+    * This app control the movement of mouse pointer by the direction of eyes and also estimated pose of the head.
+    * This app takes video as input(video file or camera) and then estimates the gaze of the user’s eyes and change the mouse pointer position accordingly
 - layout: top-middle
   name: Smart queuing System
   github: /suryaprabhakar414/Smart-Queuing-System-OpenVINO-Intel-DevCloud.git
