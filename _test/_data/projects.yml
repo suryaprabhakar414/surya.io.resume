@@ -7,7 +7,7 @@
   description: >
     * Developed the application using Intel Distribution of the OpenVINO Toolkit.
     
-    * This app control the movement of mouse pointer by the direction of eyes and also estimated pose of the head.
+    * This app control the movement of mouse pointer by the direction of eyes and also estimates pose of the head.
     
     * This app takes video as input(video file or camera) and then estimates the gaze of the user’s eyes and change the mouse pointer position accordingly.
 - layout: top-middle
