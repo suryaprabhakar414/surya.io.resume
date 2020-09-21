@@ -29,7 +29,7 @@
     * This app calculates:-
       * the number of people in the frame
       * time spent by those people in the frame
-      * the total number of people counted
+      * the total number of people counted  <br />
       
     and sends this data to a MQTT server.
 - layout: top-middle
